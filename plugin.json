@@ -1,0 +1,8 @@
+{
+    "name":"TachAuch",
+    "description":"Test PY-Plugin",
+	  "namespace":"TachAuch",
+	  "author":"iArt",
+    "type":"template",
+		"serviceProvider":"TachAuch\\Providers\\TachAuchServiceProvider"
+}
